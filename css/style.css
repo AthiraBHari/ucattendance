@@ -1,0 +1,43 @@
+.box-btn{
+    padding-bottom: 20px;
+}
+
+.btn-dark{
+    color: white !important;
+}
+
+.btn-batch{
+    text-transform: uppercase;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-decoration: none;
+    color: #01579b;
+    transition-duration: .1s;
+}
+
+.btn-batch:hover{
+    text-decoration: none;
+    background-color: #01579b;
+    color: white;
+    border-radius: 0px;
+}
+.btn-bread{
+    margin-top: 5px;
+}
+
+.box-dash-outer{
+    padding: 10px;
+}
+
+.box-dash-inner{
+    
+}
+
+.student-name{
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+.student-name:hover{
+    text-decoration: none;
+}
